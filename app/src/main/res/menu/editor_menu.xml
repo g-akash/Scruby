@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="@string/menu_new"
+        android:id="@+id/menu_new"
+        app:showAsAction="always"
+        android:icon="@mipmap/new_file"
+        />
+    <item
+        android:title="@string/menu_open"
+        android:id="@+id/menu_open"
+        app:showAsAction="always"
+        android:icon="@mipmap/open_file"
+        />
+    <item
+        android:title="@string/menu_save"
+        android:id="@+id/menu_save"
+        app:showAsAction="always"
+        android:icon="@mipmap/save_file"
+        />
+    <item
+        android:title="@string/menu_save_as"
+        android:id="@+id/menu_save_as"
+        app:showAsAction="always"
+        android:icon="@mipmap/save_as_file"
+        />
+    <item android:title="@string/menu_search"
+        android:id="@+id/menu_search"
+        app:showAsAction="always"
+        android:icon="@mipmap/search_file_icon"
+        />
+    <item
+        android:title="@string/menu_reset"
+        android:id="@+id/menu_reset"
+        app:showAsAction="always"
+        android:icon="@mipmap/reset"
+        />
+    <item
+        android:title="@string/menu_settings"
+        android:id="@+id/menu_settings"
+        app:showAsAction="always"
+        android:icon="@mipmap/settings"
+        />
+    <item
+        android:title="@string/exit"
+        android:id="@+id/menu_exit"
+        app:showAsAction="always"
+        android:icon="@mipmap/exit"
+        />
+
+
+</menu>

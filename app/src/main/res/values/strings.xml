@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Scruby</string>
+    <string name="menu_new">New</string>
+    <string name="menu_open">Open</string>
+    <string name="menu_save">Save</string>
+    <string name="menu_save_as">Save As</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_reset">Reset Colors</string>
+    <string name="menu_settings">Settings</string>
+    <string name="new_file_name">newfile.txt</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="font_type_monospace">Monospace</string>
+    <string name="font_type_serif">Serif</string>
+    <string name="font_type_sans_serif">Sans Serif</string>
+    <string name="font_type_title">Choose a font type</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="font_size_extrasmall">Extra Small</string>
+    <string name="font_size_small">Small</string>
+    <string name="font_size_medium">Medium</string>
+    <string name="font_size_large">Large</string>
+    <string name="font_size_huge">Huge</string>
+    <string name="font_size_title">Choose a font size</string>
+    <string name="color_picker_title">Choose font color</string>
+    <string name="about_editor_text">A simple text editor for android phones. Currently being actively developed.</string>
+    <string name="search_filler">Type search string here</string>
+    <string name="exit">Exit</string>
+    <string name="save_file_warning">You have tried making some changes to this file. Are you sure you want to exit without saving?</string>
+
+    <!-- shared preference -->
+    <string name="shared_prefs_file">com.example.akash.scruby.settings</string>
+    <string name="font_type">font_type</string>
+    <string name="font_size">font_size</string>
+    <string name="font_color">font_color</string>
+    <string name="background_color">background_color</string>
+    <string name="current_file_path">current_file_path</string>
+    <string name="default_font_type">monospace</string>
+    <string name="default_font_size">medium</string>
+    <string name="default_font_color">-16777216</string>
+    <string name="default_background_color">-1</string>
+
+    <!-- file explorer strings -->
+    <string name="save">Save</string>
+    <string name="explorer_type">explorer_type</string>
+    <string name="explorer_open">open</string>
+    <string name="explorer_save">save</string>
+    <string name="explorer_save_as">save_as</string>
+    <string name="current_directory_path">current_directory_path</string>
+    <string name="result_file_path">result_file_path</string>
+    <string name="file_content">file_content</string>
+    <string name="default_file_content"></string>
+    <string name="file_not_open">Sorry, couldn\'t open file.</string>
+    <string name="permission_explanation">Scruby needs permissions to read and write files to work properly.</string>
+
+    <!-- Settings strings -->
+    <string name="about_editor_title">About Editor</string>
+
+
+</resources>
